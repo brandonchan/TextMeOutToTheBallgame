@@ -1,28 +1,5 @@
-== README
+# Text Me Out To The Ballgame
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A interactive tool for managers of the SF Softball teams to text their team time and location of every game versus having to look at the schedule weekly for changes.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+This is constructed Rails 4.2.5 using Postgres
